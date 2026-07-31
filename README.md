@@ -91,16 +91,13 @@ database-engine/
 
 ## Future Improvements
 
-- UPDATE
-- DROP TABLE
+- UPDATE statements
 - ORDER BY
 - LIMIT
-- SQL Lexer
-- Abstract Syntax Tree (AST)
-- Hash indexes
-- B-Tree indexes
+- Hash indexing
+- B-Tree indexing
 - Transactions
-- Query optimisation
+- Query optimization
 
 ---
 
@@ -116,12 +113,3 @@ Through this project I gained practical experience with:
 - Software design
 - Unit testing
 
-## Future Improvements
-
-- UPDATE statements
-- ORDER BY
-- LIMIT
-- Hash indexing
-- B-Tree indexing
-- Transactions
-- Query optimization
