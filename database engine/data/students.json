@@ -1,0 +1,24 @@
+{
+    "name": "students",
+    "columns": [
+        [
+            "id",
+            "INT"
+        ],
+        [
+            "name",
+            "TEXT"
+        ],
+        [
+            "gpa",
+            "FLOAT"
+        ]
+    ],
+    "rows": [
+        {
+            "id": 2,
+            "name": "Ali",
+            "gpa": 3.5
+        }
+    ]
+}

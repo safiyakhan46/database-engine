@@ -3,7 +3,7 @@ Custom exceptions for the database engine.
 """
 
 
-class DatabaseError(Exception):
+class DatabaseError(ValueError):
     """Base class for all database exceptions."""
     pass
 
