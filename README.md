@@ -14,6 +14,7 @@ Implemented a hash-based indexing system to accelerate equality lookups by maint
 - SELECT
 - DELETE
 - WHERE filtering
+- Per-column hash indexes for equality lookups
 - Persistent JSON storage
 - Automatic table loading
 - Schema validation
@@ -94,7 +95,6 @@ database-engine/
 - UPDATE statements
 - ORDER BY
 - LIMIT
-- Hash indexing
 - B-Tree indexing
 - Transactions
 - Query optimization
